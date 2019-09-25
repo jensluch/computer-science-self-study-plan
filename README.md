@@ -1,8 +1,6 @@
 Computer Science Self Study Plan
 ============
 
-![Computer Science Image](http://oi67.tinypic.com/98hvzk.jpg)
-
 > “Plan Your Work And Work Your Plan.” - Napoleon Hill
 
 My personal guide to learning fundamental and advanced Computer Science subjects.  The purpose of this plan is to create a solid foundation as a Software Engineer. This repo will only include computer science learning material, I removed all the job searching and preparation material and will create a new repo for that. 
@@ -10,7 +8,7 @@ My personal guide to learning fundamental and advanced Computer Science subjects
 The best way to get better at something is by working on projects and creating things. I'll be creating a repo that will have projects ideas based on different CS topics. It will have links to different material to help with projects. 
 
 ## My Current Progress
- ![Generic badge](https://img.shields.io/badge/Progress-90.70%25-32CD32.svg)
+ ![Generic badge](https://img.shields.io/badge/Progress-00.00%25-32CD32.svg)
 
 * [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
 
