@@ -10,7 +10,7 @@ The best way to get better at something is by working on projects and creating t
 ## My Current Progress
  ![Generic badge](https://img.shields.io/badge/Progress-00.00%25-32CD32.svg)
 
-* [Detailed Progress](https://docs.google.com/spreadsheets/d/1HmN18NEuFJ1vD0LpfckzK1SGa0NrOGfv5HEPeUwleoM)
+* [Detailed Progress](https://docs.google.com/spreadsheets/d/1vT6U4J7NTt8ixfy6xZinu9Vn06AeM1e2H5AJA0Ldgd4/edit?usp=sharing)
 
 ## Table Of Content
 
